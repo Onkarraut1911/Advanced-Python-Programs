@@ -1,0 +1,5 @@
+DEBUG:root:This is Debug in write Mode
+INFO:root:This is Info
+WARNING:root:This is warning
+ERROR:root:This is Warning
+CRITICAL:root:This is critical

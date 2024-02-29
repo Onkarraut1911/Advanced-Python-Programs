@@ -1,0 +1,8 @@
+DEBUG:root:This is Debug
+INFO:root:This is Info
+WARNING:root:This is warning
+ERROR:root:This is Warning
+CRITICAL:root:This is critical
+
+This file open in apend mode
+means does'nt overrite the date

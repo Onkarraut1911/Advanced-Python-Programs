@@ -1,0 +1,5 @@
+2024-02-28 16:48:52,920 -- This is Debug in write Mode -- 12
+2024-02-28 16:48:52,921 -- This is Info -- 13
+2024-02-28 16:48:52,921 -- This is warning -- 14
+2024-02-28 16:48:52,921 -- This is Warning -- 15
+2024-02-28 16:48:52,921 -- This is critical -- 16

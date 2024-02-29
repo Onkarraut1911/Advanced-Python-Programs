@@ -1,0 +1,5 @@
+WARNING:root:This is Warning
+ERROR:root:This is Error
+CRITICAL:root:This is Critical
+
+This is file from logging_2.py
